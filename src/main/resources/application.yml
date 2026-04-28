@@ -21,4 +21,5 @@ cloud:
     region: ap-west-1
     s3:
       bucket: ${S3_BUCKET_NAME:awslab2026-bucket-test}
+
     
